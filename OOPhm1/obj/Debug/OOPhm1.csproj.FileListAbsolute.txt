@@ -1,0 +1,7 @@
+D:\dinaxy\OOPhm1\OOPhm1\bin\Debug\OOPhm1.exe.config
+D:\dinaxy\OOPhm1\OOPhm1\bin\Debug\OOPhm1.exe
+D:\dinaxy\OOPhm1\OOPhm1\bin\Debug\OOPhm1.pdb
+D:\dinaxy\OOPhm1\OOPhm1\obj\Debug\OOPhm1.csproj.AssemblyReference.cache
+D:\dinaxy\OOPhm1\OOPhm1\obj\Debug\OOPhm1.csproj.CoreCompileInputs.cache
+D:\dinaxy\OOPhm1\OOPhm1\obj\Debug\OOPhm1.exe
+D:\dinaxy\OOPhm1\OOPhm1\obj\Debug\OOPhm1.pdb
